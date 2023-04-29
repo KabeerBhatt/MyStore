@@ -45,6 +45,45 @@ const Home = () => {
       description: "6,499",
       image: "https://wallpaperaccess.com/full/4036542.png",
     },
+    {
+      id: 6,
+      title: "Guide",
+      description: "6,599",
+      image:
+        "https://newgramophonehouse.com/wp-content/uploads/2023/03/Guide-3AEX.-5074-First-Side-Copy.jpg",
+    },
+    {
+      id: 7,
+      title: "Wo Kon Thi",
+      description: "5,299",
+      image: "https://i.scdn.co/image/ab67616d0000b27387883ad849cb0602b6f36503",
+    },
+    {
+      id: 8,
+      title: "Dil Tera Deewana",
+      description: "4,699",
+      image:
+        "https://c.saavncdn.com/206/Dil-Tera-Deewana-Hindi-1962-500x500.jpg",
+    },
+    {
+      id: 9,
+      title: "Pyaasa",
+      description: "5,499",
+      image: "https://i.scdn.co/image/ab67616d0000b2733554110ba8c89484fa092118",
+    },
+    {
+      id: 10,
+      title: "Aradhana",
+      description: "4,499",
+      image: "https://i.scdn.co/image/ab67616d0000b27320bde754b4e988ba3a6ed66a",
+    },
+    {
+      id: 11,
+      title: "Ram Aur Shyaam",
+      description: "6,499",
+      image:
+        "https://c.saavncdn.com/441/Ram-Aur-Shyam-Hindi-1967-20200901153918-500x500.jpg",
+    },
   ];
 
   const handleAddToCart = (product) => {
